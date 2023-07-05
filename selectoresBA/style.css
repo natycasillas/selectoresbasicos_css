@@ -1,0 +1,34 @@
+
+p {
+    background-color: papayawhip;
+  }
+  
+  .titulo {
+    background-color: teal;
+    color: white;
+    text-align: center;
+  }
+  
+  #parrafoNum1 {
+    background-color: coral;
+    color: blue;
+    text-align: right;
+    font-size: 20px;
+  }
+  
+  🍔 {
+    background-color: black;
+    color: yellow;
+    text-align: left;
+    font-size: 30px;
+    text-decoration: underline;
+  }
+  
+  /* Selector universal */
+  * {
+    background-color: #ddbcdb;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+  }
+  

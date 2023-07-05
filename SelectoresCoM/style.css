@@ -1,0 +1,39 @@
+.parrafo,
+.titulo1,
+.titulo2 {
+  background-color: teal;
+  text-align: center;
+  color: white;
+}
+
+.titulo2,
+.titulo3,
+.titulo4 {
+  background-color: orange;
+  text-align: right;
+  color: black;
+  font-size: 30px;
+}
+
+
+.parrafo.titulo2 {
+  background-color: red;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  text-decoration: line-through;
+}
+
+p.aside {
+  background-color: violet;
+  text-align: left;
+  color: white;
+  font-size: 25px;
+}
+
+h6{
+  background-color: blue;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
